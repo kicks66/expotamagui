@@ -1,2 +1,2 @@
-import {Home} from 'src/features/home';
-export default Home;
+import {Brief} from 'src/features/brief';
+export default Brief;
